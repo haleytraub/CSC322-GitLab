@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"Hello Very Crool World!"
-=======
-"Hello Happy World!"
->>>>>>> Happy
+"Hello Very Happy World!"
